@@ -1,8 +1,8 @@
 # ✨  Livefloor ✨
 
-This is a web based application developed for health related based website in india
+This is a web based application developed for livefloor related based website in india
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based livefloor application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** -https://nice-river-0cd18cc00.2.azurestaticapps.net/
@@ -11,7 +11,7 @@ This is a web based application developed for health related based website in in
 ## Azure technologies used for Project
 
 - Static web apps
-- chat bot
+- health bot
 
 ## Features and Functionalities 
 
@@ -21,9 +21,12 @@ This is a web based application developed for health related based website in in
 - Has collection of many web pages including Home, About Us, Contact, Menu, furniture topics and chairs,sofas related information etc.
 - User can know about furniture information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
-- we also provided the chatbot for more information
+- we also provided the chatbot for more information.
 
-## Screenshots-
+## Screenshots -
+
+![Screenshot (1134)](https://user-images.githubusercontent.com/117736569/210242486-e0c08173-b20c-4466-93c2-a434890bbcda.png)
+![Screenshot (1135)](https://user-images.githubusercontent.com/117736569/210242490-7a0843d2-eaa9-463b-8736-066278b482e3.png)
 ![Screenshot (317)](https://user-images.githubusercontent.com/117736569/205290089-a2968fa3-4b7c-457d-970c-7afcdfa1b614.png)
 ![Screenshot (318)](https://user-images.githubusercontent.com/117736569/205289868-d459b47a-03c6-47c7-9c5b-f69171d6bc3e.png)
 ![Screenshot (319)](https://user-images.githubusercontent.com/117736569/205289889-39c39fb8-7f8a-4166-b417-054413dbfdb6.png)
@@ -36,6 +39,7 @@ This is a web based application developed for health related based website in in
 ![Screenshot (326)](https://user-images.githubusercontent.com/117736569/205289967-1e91612a-cb74-4781-a5cc-f44b7019eb71.png)
 
 ### About Us -
+
 ![Screenshot (327)](https://user-images.githubusercontent.com/117736569/205290367-103e9e99-4e75-4ef1-889a-275854d8a48f.png)
 ![Screenshot (328)](https://user-images.githubusercontent.com/117736569/205290378-b2dc6e45-fc47-45fb-994b-7bf30df49a71.png)
 ![Screenshot (329)](https://user-images.githubusercontent.com/117736569/205290400-25acd58a-be62-4046-9c17-766a5f928dde.png)
@@ -45,14 +49,16 @@ This is a web based application developed for health related based website in in
 ![Screenshot (333)](https://user-images.githubusercontent.com/117736569/205290674-7a826c2a-057c-4bb2-91e2-96e96a8889bc.png)
 
 ### Services -
+
 ![Screenshot (334)](https://user-images.githubusercontent.com/117736569/205291002-dbcf8073-10d8-42a3-940e-91c2bf03ddfb.png)
 ![Screenshot (335)](https://user-images.githubusercontent.com/117736569/205291027-4bbb64d1-514f-4b53-845f-18697e63ead7.png)
 ![Screenshot (336)](https://user-images.githubusercontent.com/117736569/205291048-cf5c20d0-edae-456a-bffa-4892e721c3ee.png)
 
 ### Contact us -
+
 ![Screenshot (337)](https://user-images.githubusercontent.com/117736569/205291291-9c9dc2f6-a470-4177-ae7b-e171025c9899.png)
 
-### chat bot
+### health bot
 
 ![Screenshot (338)](https://user-images.githubusercontent.com/117736569/205291325-126e772c-07d1-4120-b3d8-0d6b651f7cf4.png)
 
@@ -62,3 +68,4 @@ This is a web based application developed for health related based website in in
 - HTML
 - CSS
 - JAVA
+- BOOTSTRAP
